@@ -1,4 +1,4 @@
- '# A-Very-Simple-Oracle-
+# A-Very-Simple-Oracle #
 A simple example using Oraclize to pull outside data into smart contracts. This contract pulls the PPI of Frozen Orange Juice from Quandl. 
 
 The main contract of this applicaiton is deployed on the Rinkeby testnet at the following address: 0x1f8e5aa40f69c39b089ead323a2bde70c0b45e28. 
