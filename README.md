@@ -1,4 +1,4 @@
-# A-Very-Simple-Oracle-
+ '# A-Very-Simple-Oracle-
 A simple example using Oraclize to pull outside data into smart contracts. This contract pulls the PPI of Frozen Orange Juice from Quandl. 
 
 The main contract of this applicaiton is deployed on the Rinkeby testnet at the following address: 0x1f8e5aa40f69c39b089ead323a2bde70c0b45e28. 
@@ -7,7 +7,7 @@ To launch this application, connect to the Rinkeby network using the MetaMask Go
 
 You will need an account on the Rinkeby network with a bit of "fake ether" on the Rinkeby network. You can ask the faucet to send you some from the site [here.](https://faucet.rinkeby.io/)
 
-Next, clone or copy this respositrory to your computer, and from the command window while in the folder run `npm run dev`. Webpack will build and serve the application. 
+Next, clone or copy this respositrory to your computer, and from the command window while in the folder run `npm install` to install dependancies. Then, run `npm run dev`. Webpack will build and serve the application. 
 
 Then, using Chrome with your MetaMask extension to Rinkeby, you can access http://localhost:8080/ to connect to the application. 
 
